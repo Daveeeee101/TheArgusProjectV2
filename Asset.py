@@ -5,9 +5,14 @@ class Asset:
             openseaAssetData = kwargs['openseaAssetData']
             self.assetId: str = openseaAssetData['tokenId']
             self.assetName: str = openseaAssetData['name']
-            self.price: float = float(openseaAssetData['orderData']['bestAskV2']['priceType']['eth'])
-            self.priceInDollars: float = float(openseaAssetData['orderData']['bestAskV2']['priceType']['usd'])
-            self.seller: str = openseaAssetData['orderData']['bestAskV2']['maker']['address']
+            try:
+                self.price: float = float(openseaAssetData['orderData']['bestAskV2']['priceType']['eth'])
+                self.priceInDollars: float = float(openseaAssetData['orderData']['bestAskV2']['priceType']['usd'])
+                self.seller: str = openseaAssetData['orderData']['bestAskV2']['maker']['address']
+            except TypeError:
+                self.price: float = 0.0
+                self.priceInDollars: float = 0.0
+                self.seller: str = "NO SELLER"
         else:
             self.assetId: str = kwargs['id']
             self.assetName: str = kwargs['name']
