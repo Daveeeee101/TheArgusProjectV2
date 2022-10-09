@@ -5,6 +5,7 @@ from Collection import Collection
 import CommandLine
 import asyncio
 
+
 async def main(colls):
     await asyncio.gather(
         EventLoop.eventLoop(colls)

@@ -1963,3 +1963,1639 @@ INFO: 2022-10-09 17:39:30,067  updated events
 INFO: 2022-10-09 17:39:35,971  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=2143
 INFO: 2022-10-09 17:39:35,972  updated events
 INFO: 2022-10-09 17:39:41,831  updated events
+INFO: 2022-10-09 17:57:47,933  starting logging
+INFO: 2022-10-09 17:57:47,933  Getting initial asset info...
+INFO: 2022-10-09 17:57:47,933  Getting asset info for the-chimpsons-official
+INFO: 2022-10-09 17:57:49,766  adding token 3249 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,766  adding token 109 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,767  adding token 2946 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,767  adding token 165 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,767  adding token 5085 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,767  adding token 4358 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,767  adding token 5510 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,767  adding token 3388 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,767  adding token 252 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,768  adding token 4250 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,768  adding token 5979 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,768  adding token 6689 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,768  adding token 5331 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,768  adding token 4635 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,768  adding token 2076 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,768  adding token 1491 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,768  adding token 5026 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,768  adding token 6015 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,769  adding token 2592 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,769  adding token 6210 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,769  adding token 3086 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,769  adding token 2027 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,769  adding token 29 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,769  adding token 4760 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,769  adding token 1091 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,769  adding token 679 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,770  adding token 2740 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,770  adding token 627 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,770  adding token 3803 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,770  adding token 5936 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,770  adding token 479 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:49,770  adding token 3968 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,060  adding token 3968 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,060  adding token 2792 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,060  adding token 4986 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,060  adding token 2624 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,060  adding token 1828 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,061  adding token 1264 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,061  adding token 3079 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,061  adding token 4222 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,061  adding token 357 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,061  adding token 892 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,061  adding token 1544 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,062  adding token 4632 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,062  adding token 2579 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,062  adding token 3164 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,062  adding token 1132 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,062  adding token 6836 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,062  adding token 4639 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,062  adding token 2881 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,063  adding token 1793 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,063  adding token 4117 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,063  adding token 5747 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,063  adding token 3128 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,063  adding token 2883 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,063  adding token 5984 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,063  adding token 5845 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,064  adding token 1788 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,064  adding token 3419 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,064  adding token 1907 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,064  adding token 1628 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,064  adding token 6007 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,064  adding token 2345 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:51,064  adding token 2736 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,265  adding token 4380 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,265  adding token 2141 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,265  adding token 2909 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,265  adding token 4280 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,266  adding token 2274 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,266  adding token 2788 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,266  adding token 3732 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,266  adding token 3822 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,266  adding token 5755 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,266  adding token 1768 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,266  adding token 4863 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,267  adding token 4958 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,267  adding token 2681 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,267  adding token 3149 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,267  adding token 2455 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,267  adding token 5727 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,267  adding token 3824 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,267  adding token 4955 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,267  adding token 2892 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,267  adding token 3243 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,268  adding token 3379 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,268  adding token 6023 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,268  adding token 99 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,268  adding token 1527 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,268  adding token 156 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,268  adding token 105 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,268  adding token 3287 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,268  adding token 2275 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,269  adding token 3688 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,269  adding token 1360 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,269  adding token 6451 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:52,269  adding token 4650 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,452  adding token 5246 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,452  adding token 1805 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,452  adding token 4692 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,452  adding token 657 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,453  adding token 271 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,453  adding token 1418 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,453  adding token 2939 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,453  adding token 3634 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,453  adding token 1107 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,453  adding token 2317 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,454  adding token 3886 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,454  adding token 4051 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,454  adding token 5690 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,454  adding token 1967 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,454  adding token 6547 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,454  adding token 6809 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,454  adding token 634 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,455  adding token 6883 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,455  adding token 3897 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,455  adding token 2143 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,455  adding token 5397 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,455  adding token 4271 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,455  adding token 2301 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,455  adding token 6721 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,455  adding token 798 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,456  adding token 4374 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,456  adding token 5422 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,456  adding token 5064 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,456  adding token 5392 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,456  adding token 4714 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,456  adding token 212 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:53,456  adding token 4375 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,546  adding token 3808 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,546  adding token 6732 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,546  adding token 4010 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,546  adding token 341 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,547  adding token 5597 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,547  adding token 1594 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,547  adding token 773 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,547  adding token 4599 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,547  adding token 3314 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,547  adding token 4124 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,547  adding token 3495 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,548  adding token 1484 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,548  adding token 2997 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,548  adding token 5414 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,548  adding token 1193 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,548  adding token 4959 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,548  adding token 2097 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,549  adding token 3909 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,549  adding token 4030 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,549  adding token 3654 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,549  adding token 4466 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,549  adding token 2660 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,549  adding token 6827 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,550  adding token 3668 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,550  adding token 239 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,550  adding token 3538 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,550  adding token 1349 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,550  adding token 4286 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,550  adding token 495 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,550  adding token 2845 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,551  adding token 871 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:55,551  adding token 2791 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,581  adding token 5210 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,581  adding token 495 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,581  adding token 2845 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,581  adding token 4873 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,581  adding token 3687 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,581  adding token 871 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,581  adding token 5662 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,581  adding token 4286 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,581  adding token 150 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,581  adding token 5394 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,581  adding token 5674 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,581  adding token 3109 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,581  adding token 6180 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,581  adding token 4112 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,581  adding token 6124 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,581  adding token 542 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,581  adding token 570 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,581  adding token 6796 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,581  adding token 1349 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,581  adding token 5146 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,581  adding token 951 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,581  adding token 3945 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,581  adding token 6916 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,581  adding token 3544 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,581  adding token 5612 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,582  adding token 6679 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,582  adding token 3345 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,582  adding token 5564 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,582  adding token 314 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,582  adding token 2267 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,582  adding token 818 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:57,582  adding token 1137 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,889  adding token 2780 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,890  adding token 478 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,890  adding token 5768 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,890  adding token 4118 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,890  adding token 1377 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,891  adding token 4495 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,891  adding token 396 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,891  adding token 3740 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,891  adding token 4455 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,891  adding token 5424 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,891  adding token 1286 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,892  adding token 3101 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,892  adding token 4793 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,892  adding token 5130 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,892  adding token 6047 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,892  adding token 3696 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,892  adding token 5027 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,892  adding token 6839 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,893  adding token 2791 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,893  adding token 2748 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,893  adding token 4689 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,893  adding token 5567 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,893  adding token 5413 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,893  adding token 5266 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,893  adding token 5425 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,894  adding token 4364 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,894  adding token 4739 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,894  adding token 5279 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,894  adding token 6838 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,894  adding token 3811 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,894  adding token 5378 to collection the-chimpsons-official
+INFO: 2022-10-09 17:57:58,895  adding token 608 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,187  adding token 3172 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,188  adding token 5295 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,188  adding token 2212 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,188  adding token 1094 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,188  adding token 3115 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,188  adding token 661 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,189  adding token 2387 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,189  adding token 1711 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,189  adding token 3053 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,189  adding token 5189 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,189  adding token 393 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,189  adding token 61 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,189  adding token 4448 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,190  adding token 6995 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,190  adding token 6544 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,190  adding token 6107 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,190  adding token 1332 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,190  adding token 4646 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,190  adding token 4624 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,190  adding token 759 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,191  adding token 4351 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,191  adding token 319 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,191  adding token 2841 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,191  adding token 3272 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,191  adding token 6188 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,191  adding token 6316 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,192  adding token 518 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,192  adding token 1174 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,192  adding token 196 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,192  adding token 5296 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,192  adding token 2993 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:00,192  adding token 587 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,847  adding token 1236 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,847  adding token 3028 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,847  adding token 2647 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,847  adding token 3391 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,848  adding token 5896 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,848  adding token 2993 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,848  adding token 587 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,848  adding token 1514 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,848  adding token 4822 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,848  adding token 220 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,848  adding token 3826 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,849  adding token 745 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,849  adding token 3289 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,849  adding token 6417 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,849  adding token 4141 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,849  adding token 5379 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,849  adding token 2123 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,850  adding token 6206 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,850  adding token 6800 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,850  adding token 2774 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,850  adding token 4110 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,850  adding token 1912 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,850  adding token 1213 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,851  adding token 196 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,851  adding token 3541 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,851  adding token 1368 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,851  adding token 855 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,851  adding token 1459 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,851  adding token 5757 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,851  adding token 2690 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,852  adding token 319 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:01,852  adding token 518 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,205  adding token 3506 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,205  adding token 6417 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,206  adding token 3651 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,206  adding token 3564 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,206  adding token 5242 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,206  adding token 1505 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,206  adding token 4865 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,207  adding token 6460 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,207  adding token 203 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,207  adding token 1495 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,207  adding token 2809 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,207  adding token 5345 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,207  adding token 6205 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,207  adding token 3872 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,208  adding token 5470 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,208  adding token 1666 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,208  adding token 700 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,208  adding token 4127 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,208  adding token 1801 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,208  adding token 5697 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,208  adding token 3443 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,209  adding token 4014 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,209  adding token 1247 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,209  adding token 1709 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,209  adding token 1633 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,209  adding token 2292 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,209  adding token 1270 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,209  adding token 2315 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,210  adding token 1603 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,210  adding token 3082 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,210  adding token 5306 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:04,210  adding token 4782 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,870  adding token 5306 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,870  adding token 6100 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,871  adding token 6878 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,871  adding token 6313 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,871  adding token 3297 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,871  adding token 3635 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,871  adding token 3818 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,871  adding token 2838 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,872  adding token 1050 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,872  adding token 3152 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,872  adding token 2675 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,872  adding token 878 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,872  adding token 5357 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,872  adding token 5622 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,872  adding token 2307 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,873  adding token 5687 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,873  adding token 5923 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,873  adding token 1027 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,873  adding token 5476 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,873  adding token 3598 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,873  adding token 2663 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,873  adding token 582 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,874  adding token 2966 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,874  adding token 2669 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,874  adding token 395 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,874  adding token 3988 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,874  adding token 4833 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,874  adding token 2591 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,874  adding token 6476 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,875  adding token 2541 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,875  adding token 5974 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:05,875  adding token 957 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,786  adding token 957 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,787  adding token 5932 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,787  adding token 5599 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,787  adding token 4833 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,787  adding token 5423 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,787  adding token 359 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,787  adding token 6674 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,788  adding token 2514 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,788  adding token 4923 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,788  adding token 3653 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,788  adding token 2541 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,788  adding token 5974 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,788  adding token 6498 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,789  adding token 3842 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,789  adding token 2161 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,789  adding token 4694 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,789  adding token 5666 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,789  adding token 2591 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,789  adding token 4794 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,789  adding token 6476 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,790  adding token 2761 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,790  adding token 6130 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,790  adding token 1886 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,790  adding token 6456 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,790  adding token 1072 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,790  adding token 46 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,790  adding token 395 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,791  adding token 1798 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,791  adding token 3988 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,791  adding token 4505 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,791  adding token 348 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:07,791  adding token 3947 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,656  adding token 4741 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,657  adding token 4783 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,657  adding token 3450 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,657  adding token 4862 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,657  adding token 5233 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,657  adding token 5007 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,657  adding token 3910 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,658  adding token 6285 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,658  adding token 3600 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,658  adding token 2765 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,658  adding token 1114 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,658  adding token 1138 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,658  adding token 1123 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,659  adding token 2234 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,659  adding token 1659 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,659  adding token 1597 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,659  adding token 2266 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,659  adding token 1066 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,659  adding token 4203 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,659  adding token 4837 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,660  adding token 5255 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,660  adding token 3940 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,660  adding token 4399 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,660  adding token 5787 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,660  adding token 963 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,660  adding token 6207 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,660  adding token 5809 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,661  adding token 5960 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,661  adding token 5224 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,661  adding token 1145 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,661  adding token 5955 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:09,661  adding token 6698 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,392  adding token 2572 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,393  adding token 4882 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,393  adding token 1208 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,393  adding token 2668 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,393  adding token 5657 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,393  adding token 5046 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,393  adding token 6159 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,393  adding token 5540 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,393  adding token 6311 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,393  adding token 6003 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,393  adding token 3879 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,393  adding token 3658 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,393  adding token 5231 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,393  adding token 1370 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,393  adding token 6571 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,393  adding token 3951 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,394  adding token 2243 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,394  adding token 1537 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,394  adding token 2726 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,394  adding token 6818 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,394  adding token 1715 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,394  adding token 2745 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,394  adding token 1550 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,394  adding token 4431 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,394  adding token 272 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,394  adding token 1109 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,394  adding token 2457 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,394  adding token 2045 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,394  adding token 5147 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,394  adding token 1574 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,394  adding token 3148 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:11,394  adding token 3439 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,216  adding token 825 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,216  adding token 1482 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,216  adding token 5456 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 3508 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 4594 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 4527 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 881 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 2099 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 2542 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 5172 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 233 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 3377 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 2063 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 2839 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 799 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 3200 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 5461 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 3845 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 3046 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 6755 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 3006 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 3930 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 1475 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 5020 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 2471 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 1548 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 3429 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 607 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 6299 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 4152 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 147 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:13,217  adding token 6560 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,553  adding token 2375 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,553  adding token 147 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,553  adding token 1351 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,553  adding token 6560 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,554  adding token 5515 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,554  adding token 5890 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,554  adding token 5559 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,554  adding token 2563 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,554  adding token 1762 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,554  adding token 1535 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,555  adding token 901 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,555  adding token 5406 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,555  adding token 83 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,555  adding token 5977 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,555  adding token 3454 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,555  adding token 831 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,556  adding token 6454 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,556  adding token 2935 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,556  adding token 3131 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,556  adding token 3726 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,556  adding token 4887 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,556  adding token 5574 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,556  adding token 2749 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,557  adding token 6244 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,557  adding token 1372 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,557  adding token 2429 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,557  adding token 1181 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,557  adding token 6246 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,557  adding token 157 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,557  adding token 3162 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,558  adding token 2844 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:14,558  adding token 5565 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,679  adding token 5127 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,679  adding token 2844 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,680  adding token 785 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,680  adding token 547 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,680  adding token 2912 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,680  adding token 667 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,680  adding token 4362 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,680  adding token 3928 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,681  adding token 5802 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,681  adding token 6065 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,681  adding token 6242 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,681  adding token 2469 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,681  adding token 3674 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,681  adding token 4887 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,681  adding token 1372 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,682  adding token 1181 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,682  adding token 2429 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,682  adding token 6244 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,682  adding token 157 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,682  adding token 6246 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,682  adding token 1843 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,682  adding token 1653 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,683  adding token 1726 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,683  adding token 1026 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,683  adding token 5875 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,683  adding token 3532 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,683  adding token 2272 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,683  adding token 2575 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,683  adding token 5002 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,684  adding token 1250 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,684  adding token 6779 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,684  adding token 2029 to collection the-chimpsons-official
+INFO: 2022-10-09 17:58:16,685  starting event loop...
+INFO: 2022-10-09 17:58:17,687  updated events
+INFO: 2022-10-09 17:58:23,318  updated events
+INFO: 2022-10-09 17:58:29,176  updated events
+INFO: 2022-10-09 17:58:35,203  updated events
+INFO: 2022-10-09 17:58:40,933  updated events
+INFO: 2022-10-09 17:58:47,183  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=2151
+INFO: 2022-10-09 17:58:47,183  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=3419
+WARNING: 2022-10-09 17:58:47,184  Token (id=3419) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.085, new price: 0.07
+INFO: 2022-10-09 17:58:47,184  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=638
+INFO: 2022-10-09 17:58:47,184  updated events
+INFO: 2022-10-09 17:58:53,732  updated events
+INFO: 2022-10-09 17:58:59,573  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=640
+INFO: 2022-10-09 17:58:59,573  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=2841
+WARNING: 2022-10-09 17:58:59,574  Token (id=2841) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.11, new price: 0.08
+INFO: 2022-10-09 17:58:59,574  updated events
+INFO: 2022-10-09 17:59:05,615  updated events
+INFO: 2022-10-09 17:59:11,959  updated events
+INFO: 2022-10-09 17:59:17,705  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=2143
+WARNING: 2022-10-09 17:59:17,705  Token (id=2143) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.092, new price: 0.091
+INFO: 2022-10-09 17:59:17,705  updated events
+INFO: 2022-10-09 17:59:23,530  updated events
+INFO: 2022-10-09 17:59:29,113  updated events
+INFO: 2022-10-09 17:59:34,999  updated events
+INFO: 2022-10-09 17:59:40,707  updated events
+INFO: 2022-10-09 17:59:46,374  updated events
+INFO: 2022-10-09 17:59:52,061  updated events
+INFO: 2022-10-09 17:59:57,719  updated events
+INFO: 2022-10-09 18:00:03,906  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=658
+INFO: 2022-10-09 18:00:03,906  updated events
+INFO: 2022-10-09 18:00:10,024  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=6577
+INFO: 2022-10-09 18:00:10,024  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=6572
+INFO: 2022-10-09 18:00:10,024  updated events
+INFO: 2022-10-09 18:00:16,373  updated events
+INFO: 2022-10-09 18:00:22,517  updated events
+INFO: 2022-10-09 18:00:28,252  updated events
+INFO: 2022-10-09 18:00:34,192  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=5737
+INFO: 2022-10-09 18:00:34,192  updated events
+INFO: 2022-10-09 18:00:39,619  new event of type SUCCESSFUL for collection the-chimpsons-official added to history, tokenId=3249
+INFO: 2022-10-09 18:00:40,229  updated events
+INFO: 2022-10-09 18:00:46,065  updated events
+INFO: 2022-10-09 18:00:52,209  updated events
+INFO: 2022-10-09 18:00:58,046  updated events
+INFO: 2022-10-09 18:01:03,838  updated events
+INFO: 2022-10-09 18:01:09,827  updated events
+INFO: 2022-10-09 18:01:15,584  updated events
+INFO: 2022-10-09 18:01:21,822  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=589
+INFO: 2022-10-09 18:01:21,822  updated events
+INFO: 2022-10-09 18:01:28,058  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=5431
+INFO: 2022-10-09 18:01:28,059  updated events
+INFO: 2022-10-09 18:01:33,989  updated events
+INFO: 2022-10-09 18:01:39,723  updated events
+INFO: 2022-10-09 18:01:45,355  updated events
+INFO: 2022-10-09 18:01:51,082  updated events
+INFO: 2022-10-09 18:01:56,927  updated events
+INFO: 2022-10-09 18:02:02,662  updated events
+INFO: 2022-10-09 18:02:08,805  updated events
+INFO: 2022-10-09 18:02:14,643  updated events
+INFO: 2022-10-09 18:02:20,277  updated events
+INFO: 2022-10-09 18:02:26,215  updated events
+INFO: 2022-10-09 18:02:31,949  updated events
+INFO: 2022-10-09 18:02:37,683  updated events
+INFO: 2022-10-09 18:02:43,781  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=1828
+WARNING: 2022-10-09 18:02:43,781  Token (id=1828) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.07999, new price: 0.0777
+INFO: 2022-10-09 18:02:43,782  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=6769
+INFO: 2022-10-09 18:02:43,782  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=1976
+INFO: 2022-10-09 18:02:43,782  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=4547
+INFO: 2022-10-09 18:02:43,782  updated events
+INFO: 2022-10-09 18:02:49,765  updated events
+INFO: 2022-10-09 18:02:55,811  updated events
+INFO: 2022-10-09 18:03:01,849  updated events
+INFO: 2022-10-09 18:03:07,383  updated events
+INFO: 2022-10-09 18:03:13,846  updated events
+INFO: 2022-10-09 18:03:19,464  updated events
+INFO: 2022-10-09 18:03:25,302  updated events
+INFO: 2022-10-09 18:03:31,247  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=4635
+WARNING: 2022-10-09 18:03:31,248  Token (id=4635) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.0759, new price: 0.0745
+INFO: 2022-10-09 18:03:31,248  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=5682
+INFO: 2022-10-09 18:03:31,249  updated events
+INFO: 2022-10-09 18:03:37,073  updated events
+INFO: 2022-10-09 18:03:43,018  updated events
+INFO: 2022-10-09 18:03:48,648  updated events
+INFO: 2022-10-09 18:03:54,485  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=3824
+WARNING: 2022-10-09 18:03:54,485  Token (id=3824) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.089, new price: 0.079
+INFO: 2022-10-09 18:03:54,486  updated events
+INFO: 2022-10-09 18:04:00,594  updated events
+INFO: 2022-10-09 18:04:06,468  updated events
+INFO: 2022-10-09 18:04:12,308  updated events
+INFO: 2022-10-09 18:04:18,347  updated events
+INFO: 2022-10-09 18:04:23,976  updated events
+INFO: 2022-10-09 18:04:29,776  updated events
+INFO: 2022-10-09 18:04:35,599  updated events
+INFO: 2022-10-09 18:04:41,897  updated events
+INFO: 2022-10-09 18:04:47,834  updated events
+INFO: 2022-10-09 18:04:54,087  updated events
+INFO: 2022-10-09 18:05:00,059  updated events
+INFO: 2022-10-09 18:05:05,975  updated events
+INFO: 2022-10-09 18:05:11,901  updated events
+INFO: 2022-10-09 18:05:17,939  updated events
+INFO: 2022-10-09 18:05:23,985  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=3927
+INFO: 2022-10-09 18:05:23,986  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=4499
+INFO: 2022-10-09 18:05:23,986  updated events
+INFO: 2022-10-09 18:05:29,622  updated events
+INFO: 2022-10-09 18:05:35,757  updated events
+INFO: 2022-10-09 18:05:41,595  updated events
+INFO: 2022-10-09 18:05:47,534  updated events
+INFO: 2022-10-09 18:05:53,479  updated events
+INFO: 2022-10-09 18:05:59,107  updated events
+INFO: 2022-10-09 18:06:04,737  updated events
+INFO: 2022-10-09 18:06:10,684  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=3927
+WARNING: 2022-10-09 18:06:10,684  Token (id=3927) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.35, new price: 0.29
+INFO: 2022-10-09 18:06:10,684  updated events
+INFO: 2022-10-09 18:06:17,136  updated events
+INFO: 2022-10-09 18:06:22,968  updated events
+INFO: 2022-10-09 18:06:28,607  updated events
+INFO: 2022-10-09 18:06:34,435  updated events
+INFO: 2022-10-09 18:06:40,891  updated events
+INFO: 2022-10-09 18:06:46,930  updated events
+INFO: 2022-10-09 18:06:52,662  updated events
+INFO: 2022-10-09 18:06:58,404  updated events
+INFO: 2022-10-09 18:07:04,131  updated events
+INFO: 2022-10-09 18:07:10,503  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=798
+WARNING: 2022-10-09 18:07:10,503  Token (id=798) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.094, new price: 0.094
+INFO: 2022-10-09 18:07:10,503  updated events
+INFO: 2022-10-09 18:07:16,726  updated events
+INFO: 2022-10-09 18:07:22,563  updated events
+INFO: 2022-10-09 18:07:28,195  updated events
+INFO: 2022-10-09 18:07:34,032  updated events
+INFO: 2022-10-09 18:07:39,882  updated events
+INFO: 2022-10-09 18:07:45,923  new event of type CANCELLED for collection the-chimpsons-official added to history, tokenId=4624
+INFO: 2022-10-09 18:07:45,923  new event of type CANCELLED for collection the-chimpsons-official added to history, tokenId=4624
+WARNING: 2022-10-09 18:07:45,923  Token (id=4624) cancelled but not in collection (collection=the-chimpsons-official)!
+INFO: 2022-10-09 18:07:46,219  updated events
+INFO: 2022-10-09 18:07:52,470  updated events
+INFO: 2022-10-09 18:07:58,432  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=2143
+WARNING: 2022-10-09 18:07:58,432  Token (id=2143) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.091, new price: 0.09
+INFO: 2022-10-09 18:07:58,432  updated events
+INFO: 2022-10-09 18:08:04,664  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=252
+WARNING: 2022-10-09 18:08:04,665  Token (id=252) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.0747, new price: 0.0719
+INFO: 2022-10-09 18:08:04,665  updated events
+INFO: 2022-10-09 18:08:10,908  updated events
+INFO: 2022-10-09 18:08:16,527  updated events
+INFO: 2022-10-09 18:08:22,670  updated events
+INFO: 2022-10-09 18:08:28,616  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=889
+INFO: 2022-10-09 18:08:28,617  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=1420
+INFO: 2022-10-09 18:08:28,617  updated events
+INFO: 2022-10-09 18:08:34,657  updated events
+INFO: 2022-10-09 18:08:40,693  updated events
+INFO: 2022-10-09 18:08:46,666  updated events
+INFO: 2022-10-09 18:08:52,469  updated events
+INFO: 2022-10-09 18:08:58,203  updated events
+INFO: 2022-10-09 18:09:04,255  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=252
+WARNING: 2022-10-09 18:09:04,255  Token (id=252) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.0719, new price: 0.0717
+INFO: 2022-10-09 18:09:04,255  updated events
+INFO: 2022-10-09 18:09:09,981  updated events
+INFO: 2022-10-09 18:09:15,827  updated events
+INFO: 2022-10-09 18:09:21,448  updated events
+INFO: 2022-10-09 18:09:27,187  updated events
+INFO: 2022-10-09 18:09:32,918  updated events
+INFO: 2022-10-09 18:09:38,699  updated events
+INFO: 2022-10-09 18:09:44,600  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=6210
+WARNING: 2022-10-09 18:09:44,600  Token (id=6210) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.0777, new price: 0.0745
+INFO: 2022-10-09 18:09:44,600  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=4895
+INFO: 2022-10-09 18:09:44,601  updated events
+INFO: 2022-10-09 18:09:50,846  updated events
+INFO: 2022-10-09 18:09:56,895  updated events
+INFO: 2022-10-09 18:10:02,821  updated events
+INFO: 2022-10-09 18:10:08,488  updated events
+INFO: 2022-10-09 18:10:14,490  updated events
+INFO: 2022-10-09 18:10:20,535  updated events
+INFO: 2022-10-09 18:10:26,525  updated events
+INFO: 2022-10-09 18:10:32,491  updated events
+INFO: 2022-10-09 18:10:38,154  updated events
+INFO: 2022-10-09 18:10:43,885  updated events
+INFO: 2022-10-09 18:10:49,719  updated events
+INFO: 2022-10-09 18:10:55,865  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=4126
+INFO: 2022-10-09 18:10:55,865  updated events
+INFO: 2022-10-09 18:11:01,701  updated events
+INFO: 2022-10-09 18:11:07,379  updated events
+INFO: 2022-10-09 18:11:13,167  updated events
+INFO: 2022-10-09 18:11:18,702  updated events
+INFO: 2022-10-09 18:11:25,050  updated events
+INFO: 2022-10-09 18:11:31,090  updated events
+INFO: 2022-10-09 18:11:37,237  updated events
+INFO: 2022-10-09 18:11:43,068  updated events
+INFO: 2022-10-09 18:11:48,576  updated events
+INFO: 2022-10-09 18:11:54,138  updated events
+INFO: 2022-10-09 18:11:59,631  updated events
+INFO: 2022-10-09 18:12:05,395  updated events
+INFO: 2022-10-09 18:12:11,229  updated events
+INFO: 2022-10-09 18:12:17,254  updated events
+INFO: 2022-10-09 18:12:23,107  updated events
+INFO: 2022-10-09 18:12:29,009  updated events
+INFO: 2022-10-09 18:12:34,797  updated events
+INFO: 2022-10-09 18:12:40,424  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=1360
+WARNING: 2022-10-09 18:12:40,424  Token (id=1360) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.09, new price: 0.075
+INFO: 2022-10-09 18:12:40,425  updated events
+INFO: 2022-10-09 18:12:46,236  updated events
+INFO: 2022-10-09 18:12:51,966  updated events
+INFO: 2022-10-09 18:12:57,925  updated events
+INFO: 2022-10-09 18:13:03,660  updated events
+INFO: 2022-10-09 18:13:09,397  updated events
+INFO: 2022-10-09 18:13:14,923  updated events
+INFO: 2022-10-09 18:13:20,656  updated events
+INFO: 2022-10-09 18:13:26,556  updated events
+INFO: 2022-10-09 18:13:32,198  updated events
+INFO: 2022-10-09 18:13:38,069  updated events
+INFO: 2022-10-09 18:13:43,602  updated events
+INFO: 2022-10-09 18:13:49,113  updated events
+INFO: 2022-10-09 18:13:54,823  updated events
+INFO: 2022-10-09 18:14:00,553  updated events
+INFO: 2022-10-09 18:14:06,189  updated events
+INFO: 2022-10-09 18:14:12,476  new event of type CANCELLED for collection the-chimpsons-official added to history, tokenId=5279
+INFO: 2022-10-09 18:14:12,477  new event of type CANCELLED for collection the-chimpsons-official added to history, tokenId=5657
+INFO: 2022-10-09 18:14:12,477  new event of type CANCELLED for collection the-chimpsons-official added to history, tokenId=5597
+INFO: 2022-10-09 18:14:12,477  new event of type CANCELLED for collection the-chimpsons-official added to history, tokenId=4833
+INFO: 2022-10-09 18:14:12,478  new event of type CANCELLED for collection the-chimpsons-official added to history, tokenId=2918
+WARNING: 2022-10-09 18:14:12,478  Token (id=2918) cancelled but not in collection (collection=the-chimpsons-official)!
+INFO: 2022-10-09 18:14:12,478  new event of type CANCELLED for collection the-chimpsons-official added to history, tokenId=5279
+WARNING: 2022-10-09 18:14:12,478  Token (id=5279) cancelled but not in collection (collection=the-chimpsons-official)!
+INFO: 2022-10-09 18:14:12,478  new event of type CANCELLED for collection the-chimpsons-official added to history, tokenId=5279
+WARNING: 2022-10-09 18:14:12,478  Token (id=5279) cancelled but not in collection (collection=the-chimpsons-official)!
+INFO: 2022-10-09 18:20:02,289  starting logging
+INFO: 2022-10-09 18:20:02,289  Getting initial asset info...
+INFO: 2022-10-09 18:20:02,289  Getting asset info for the-chimpsons-official
+INFO: 2022-10-09 18:20:03,554  adding token 1180 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,555  adding token 1596 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,555  adding token 5295 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,555  adding token 3419 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,555  adding token 6188 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,555  adding token 2341 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,555  adding token 2842 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,556  adding token 4367 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,556  adding token 109 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,556  adding token 252 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,556  adding token 2946 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,557  adding token 5085 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,557  adding token 165 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,557  adding token 1828 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,557  adding token 4358 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,557  adding token 5510 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,558  adding token 658 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,558  adding token 3388 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,559  adding token 4635 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,559  adding token 6210 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,559  adding token 4250 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,559  adding token 5979 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,559  adding token 6689 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,559  adding token 1360 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,560  adding token 5676 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,560  adding token 5331 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,560  adding token 2076 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,560  adding token 1491 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,560  adding token 5026 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,560  adding token 6015 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,560  adding token 2592 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:03,561  adding token 5929 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,853  adding token 3086 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,853  adding token 2027 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,853  adding token 29 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,853  adding token 1091 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,853  adding token 4760 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,853  adding token 679 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,853  adding token 2740 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,853  adding token 3824 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,853  adding token 1742 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,853  adding token 627 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,853  adding token 3803 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,854  adding token 5649 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,854  adding token 5936 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,854  adding token 479 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,854  adding token 3968 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,854  adding token 2792 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,854  adding token 4986 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,854  adding token 2624 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,854  adding token 1264 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,854  adding token 3079 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,854  adding token 4222 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,854  adding token 357 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,854  adding token 892 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,854  adding token 4632 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,855  adding token 2579 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,855  adding token 3164 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,855  adding token 1132 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,855  adding token 6836 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,855  adding token 4639 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,855  adding token 1793 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,855  adding token 4117 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:04,855  adding token 5747 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,531  adding token 1544 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,531  adding token 2841 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,531  adding token 2883 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,531  adding token 3128 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,531  adding token 2881 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,532  adding token 5984 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,532  adding token 5845 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,532  adding token 1788 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,532  adding token 6007 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,532  adding token 2736 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,532  adding token 4380 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,532  adding token 2345 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,532  adding token 1628 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,532  adding token 1907 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,532  adding token 2141 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,532  adding token 4280 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,532  adding token 2909 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,532  adding token 2788 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,532  adding token 2274 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,532  adding token 3822 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,532  adding token 3732 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,532  adding token 1768 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,532  adding token 5755 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,532  adding token 4958 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,532  adding token 4863 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,532  adding token 2681 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,532  adding token 6577 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,532  adding token 3149 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,532  adding token 2455 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,532  adding token 5727 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,532  adding token 5682 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:06,532  adding token 2143 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,360  adding token 4955 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,360  adding token 2892 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,361  adding token 3243 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,361  adding token 3379 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,361  adding token 99 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,361  adding token 6023 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,362  adding token 156 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,362  adding token 1527 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,362  adding token 3634 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,362  adding token 3886 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,362  adding token 4051 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,363  adding token 3688 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,363  adding token 1418 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,363  adding token 271 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,363  adding token 2939 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,363  adding token 5246 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,363  adding token 4692 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,363  adding token 657 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,364  adding token 6451 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,364  adding token 4650 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,364  adding token 5690 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,364  adding token 1805 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,364  adding token 1967 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,364  adding token 1107 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,364  adding token 2317 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,365  adding token 105 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,365  adding token 3287 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,365  adding token 2275 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,365  adding token 6572 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,365  adding token 6547 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,365  adding token 798 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:08,365  adding token 6809 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,101  adding token 634 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,102  adding token 6883 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,102  adding token 3897 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,102  adding token 5397 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,102  adding token 4271 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,103  adding token 2301 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,103  adding token 6721 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,103  adding token 4374 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,103  adding token 5422 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,103  adding token 5064 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,103  adding token 5392 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,103  adding token 4375 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,104  adding token 4714 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,104  adding token 212 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,104  adding token 3808 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,104  adding token 6732 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,104  adding token 4010 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,104  adding token 341 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,105  adding token 1594 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,105  adding token 773 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,105  adding token 4599 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,105  adding token 3314 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,105  adding token 4124 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,105  adding token 3495 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,105  adding token 1484 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,106  adding token 2997 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,106  adding token 5414 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,106  adding token 1193 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,106  adding token 4959 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,106  adding token 2097 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,106  adding token 3909 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:10,107  adding token 4030 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,474  adding token 3654 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,475  adding token 4466 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,475  adding token 2660 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,475  adding token 6827 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,475  adding token 3668 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,475  adding token 239 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,476  adding token 3538 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,476  adding token 1349 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,476  adding token 4286 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,476  adding token 495 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,476  adding token 2845 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,476  adding token 871 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,476  adding token 2791 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,476  adding token 2748 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,477  adding token 5567 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,477  adding token 3101 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,477  adding token 4793 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,477  adding token 5768 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,477  adding token 818 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,477  adding token 478 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,477  adding token 6679 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,477  adding token 5564 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,478  adding token 3109 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,478  adding token 3696 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,478  adding token 314 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,478  adding token 2267 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,478  adding token 4118 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,478  adding token 5674 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,478  adding token 1377 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,479  adding token 4495 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,479  adding token 396 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:11,479  adding token 3740 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,035  adding token 4455 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,035  adding token 5424 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,035  adding token 6047 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,036  adding token 5394 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,036  adding token 4739 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,036  adding token 4364 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,036  adding token 2780 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,036  adding token 6916 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,036  adding token 1137 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,036  adding token 3544 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,037  adding token 5612 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,037  adding token 3345 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,037  adding token 5130 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,037  adding token 6180 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,037  adding token 4112 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,038  adding token 1286 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,038  adding token 5027 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,038  adding token 6839 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,038  adding token 542 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,038  adding token 6838 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,038  adding token 6124 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,039  adding token 6796 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,039  adding token 5662 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,039  adding token 150 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,039  adding token 4689 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,039  adding token 5413 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,039  adding token 5266 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,040  adding token 5425 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,040  adding token 6669 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,040  adding token 1683 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,040  adding token 3687 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:13,040  adding token 3471 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,347  adding token 4689 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,347  adding token 5567 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,348  adding token 5413 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,348  adding token 5266 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,348  adding token 5425 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,348  adding token 4364 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,348  adding token 4739 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,349  adding token 6838 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,349  adding token 3811 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,349  adding token 5378 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,349  adding token 638 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,349  adding token 2212 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,350  adding token 608 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,350  adding token 3172 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,350  adding token 1094 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,350  adding token 3115 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,350  adding token 661 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,350  adding token 2387 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,351  adding token 1711 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,351  adding token 3053 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,351  adding token 5189 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,351  adding token 393 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,351  adding token 61 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,351  adding token 4448 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,351  adding token 6995 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,352  adding token 6544 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,352  adding token 6107 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,352  adding token 1332 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,352  adding token 4646 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,352  adding token 759 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,352  adding token 4351 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:14,353  adding token 319 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,112  adding token 3272 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,112  adding token 6316 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,112  adding token 518 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,112  adding token 1174 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,113  adding token 196 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,113  adding token 5296 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,113  adding token 2993 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,113  adding token 587 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,113  adding token 4110 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,113  adding token 4864 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,113  adding token 5896 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,114  adding token 2123 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,114  adding token 5276 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,114  adding token 6800 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,114  adding token 2774 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,114  adding token 5412 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,114  adding token 5846 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,114  adding token 4141 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,115  adding token 5379 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,115  adding token 3391 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,115  adding token 6206 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,115  adding token 3137 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,115  adding token 1236 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,115  adding token 1514 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,115  adding token 4822 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,115  adding token 220 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,116  adding token 745 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,116  adding token 3289 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,116  adding token 1912 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,116  adding token 3826 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,116  adding token 3028 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:16,116  adding token 2647 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,340  adding token 1213 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,340  adding token 3541 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,341  adding token 1368 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,341  adding token 855 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,341  adding token 1459 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,341  adding token 5757 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,341  adding token 2690 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,341  adding token 4866 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,341  adding token 3506 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,342  adding token 6417 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,342  adding token 3651 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,342  adding token 3564 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,342  adding token 5242 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,342  adding token 1505 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,342  adding token 4865 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,343  adding token 6460 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,343  adding token 203 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,343  adding token 1495 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,343  adding token 2809 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,343  adding token 5345 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,343  adding token 6205 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,343  adding token 3872 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,343  adding token 5470 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,344  adding token 1666 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,344  adding token 700 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,344  adding token 4127 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,344  adding token 1801 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,344  adding token 5697 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,344  adding token 3443 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,344  adding token 4014 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,344  adding token 1247 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:17,345  adding token 1709 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,192  adding token 1633 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,193  adding token 2292 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,193  adding token 1270 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,193  adding token 2315 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,193  adding token 1603 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,193  adding token 3082 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,193  adding token 5306 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,194  adding token 4782 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,194  adding token 2838 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,194  adding token 3297 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,194  adding token 3635 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,194  adding token 3818 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,195  adding token 6878 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,195  adding token 6100 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,195  adding token 6313 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,195  adding token 1050 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,195  adding token 5357 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,195  adding token 3152 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,195  adding token 2675 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,196  adding token 878 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,196  adding token 5622 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,196  adding token 2307 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,196  adding token 1027 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,196  adding token 5687 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,196  adding token 5923 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,197  adding token 1658 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,197  adding token 5476 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,197  adding token 2669 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,197  adding token 1818 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,197  adding token 2663 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,197  adding token 582 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:19,197  adding token 2966 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,958  adding token 1914 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,959  adding token 4596 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,959  adding token 3386 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,959  adding token 3598 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,959  adding token 2655 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,959  adding token 2527 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,959  adding token 4173 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,960  adding token 957 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,960  adding token 5932 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,960  adding token 5599 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,960  adding token 5423 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,960  adding token 359 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,960  adding token 6674 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,960  adding token 2514 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,960  adding token 4923 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,961  adding token 3653 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,961  adding token 2541 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,961  adding token 5974 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,961  adding token 6498 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,961  adding token 3842 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,961  adding token 2161 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,961  adding token 4694 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,962  adding token 5666 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,962  adding token 2591 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,962  adding token 4794 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,962  adding token 6476 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,962  adding token 2761 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,962  adding token 6130 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,963  adding token 1886 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,963  adding token 6456 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,963  adding token 1072 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:20,963  adding token 46 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,195  adding token 4596 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,196  adding token 3386 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,196  adding token 5423 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,196  adding token 359 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,196  adding token 1537 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,196  adding token 348 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,196  adding token 3947 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,196  adding token 4741 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,197  adding token 4783 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,197  adding token 3450 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,197  adding token 4862 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,197  adding token 5233 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,197  adding token 5007 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,197  adding token 3910 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,198  adding token 6285 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,198  adding token 3600 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,198  adding token 2765 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,198  adding token 1114 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,198  adding token 1138 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,198  adding token 1123 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,199  adding token 2234 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,199  adding token 1659 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,199  adding token 1597 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,199  adding token 2266 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,199  adding token 1066 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,199  adding token 4203 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,199  adding token 5255 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,200  adding token 3940 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,200  adding token 4399 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,200  adding token 5787 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,200  adding token 963 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:22,200  adding token 6207 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,914  adding token 5809 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,914  adding token 5960 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,914  adding token 5224 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,914  adding token 1145 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,914  adding token 5955 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,914  adding token 6698 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,914  adding token 2572 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,914  adding token 4882 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,914  adding token 1208 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,914  adding token 2668 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,914  adding token 5046 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,914  adding token 6159 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,914  adding token 5540 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,914  adding token 2151 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,914  adding token 6311 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,914  adding token 4837 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,914  adding token 6003 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,914  adding token 3879 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,914  adding token 3658 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,914  adding token 5231 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,914  adding token 1370 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,914  adding token 5737 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,914  adding token 6571 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,914  adding token 3951 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,915  adding token 2243 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,915  adding token 2726 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,915  adding token 6818 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,915  adding token 1715 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,915  adding token 2745 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,915  adding token 1550 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,915  adding token 4431 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:23,915  adding token 272 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,868  adding token 3006 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,868  adding token 3845 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,869  adding token 1109 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,869  adding token 5461 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,869  adding token 3046 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,869  adding token 6755 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,869  adding token 1482 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,869  adding token 4527 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,869  adding token 3377 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,870  adding token 3200 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,870  adding token 5147 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,870  adding token 3930 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,870  adding token 4594 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,870  adding token 5172 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,870  adding token 3148 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,870  adding token 3439 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,870  adding token 233 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,871  adding token 825 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,871  adding token 1574 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,871  adding token 3508 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,871  adding token 881 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,871  adding token 5456 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,871  adding token 2099 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,872  adding token 2063 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,872  adding token 2457 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,872  adding token 2045 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,872  adding token 2542 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,872  adding token 799 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,872  adding token 1475 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,872  adding token 2839 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,872  adding token 5020 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:25,873  adding token 2471 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,650  adding token 1548 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,651  adding token 3429 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,651  adding token 607 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,651  adding token 6299 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,651  adding token 4152 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,652  adding token 147 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,652  adding token 6560 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,652  adding token 2375 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,652  adding token 1351 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,652  adding token 5515 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,652  adding token 922 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,653  adding token 5639 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,653  adding token 5890 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,653  adding token 1976 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,653  adding token 2563 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,653  adding token 5559 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,653  adding token 1762 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,653  adding token 1535 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,654  adding token 901 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,654  adding token 5406 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,654  adding token 83 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,654  adding token 5977 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,654  adding token 831 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,655  adding token 6454 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,655  adding token 3454 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,655  adding token 2935 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,655  adding token 3131 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,655  adding token 3726 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,656  adding token 5574 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,656  adding token 2749 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,656  adding token 2397 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,656  adding token 2384 to collection the-chimpsons-official
+INFO: 2022-10-09 18:20:27,658  starting event loop...
+INFO: 2022-10-09 18:20:28,357  updated events
+INFO: 2022-10-09 18:20:34,206  updated events
+INFO: 2022-10-09 18:20:39,874  updated events
+INFO: 2022-10-09 18:20:45,556  updated events
+INFO: 2022-10-09 18:20:51,588  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=6689
+WARNING: 2022-10-09 18:20:51,588  Token (id=6689) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.075, new price: 0.07
+INFO: 2022-10-09 18:20:51,588  updated events
+INFO: 2022-10-09 18:20:57,183  updated events
+INFO: 2022-10-09 18:21:02,636  new event of type SUCCESSFUL for collection the-chimpsons-official added to history, tokenId=679
+INFO: 2022-10-09 18:21:03,077  updated events
+INFO: 2022-10-09 18:21:08,977  updated events
+INFO: 2022-10-09 18:21:14,431  updated events
+INFO: 2022-10-09 18:21:20,059  updated events
+INFO: 2022-10-09 18:21:25,638  updated events
+INFO: 2022-10-09 18:21:31,325  updated events
+INFO: 2022-10-09 18:21:36,803  updated events
+INFO: 2022-10-09 18:21:42,397  updated events
+INFO: 2022-10-09 18:21:48,067  updated events
+INFO: 2022-10-09 18:21:53,643  new event of type CANCELLED for collection the-chimpsons-official added to history, tokenId=1370
+INFO: 2022-10-09 18:21:53,643  new event of type CANCELLED for collection the-chimpsons-official added to history, tokenId=1370
+WARNING: 2022-10-09 18:21:53,643  Token (id=1370) cancelled but not in collection (collection=the-chimpsons-official)!
+INFO: 2022-10-09 18:21:53,789  updated events
+INFO: 2022-10-09 18:22:01,483  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=1810
+INFO: 2022-10-09 18:22:01,484  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=2143
+WARNING: 2022-10-09 18:22:01,484  Token (id=2143) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.089, new price: 0.088
+INFO: 2022-10-09 18:22:01,484  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=3053
+WARNING: 2022-10-09 18:22:01,484  Token (id=3053) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.1069, new price: 0.06969
+INFO: 2022-10-09 18:22:01,484  updated events
+INFO: 2022-10-09 18:22:07,415  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=2946
+WARNING: 2022-10-09 18:22:07,415  Token (id=2946) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.072, new price: 0.069
+INFO: 2022-10-09 18:22:07,416  updated events
+INFO: 2022-10-09 18:22:13,343  updated events
+INFO: 2022-10-09 18:22:19,181  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=5387
+INFO: 2022-10-09 18:22:19,181  updated events
+INFO: 2022-10-09 18:22:25,601  updated events
+INFO: 2022-10-09 18:22:31,249  updated events
+INFO: 2022-10-09 18:22:36,702  updated events
+INFO: 2022-10-09 18:22:42,257  updated events
+INFO: 2022-10-09 18:22:47,797  updated events
+INFO: 2022-10-09 18:22:53,682  updated events
+INFO: 2022-10-09 18:22:59,559  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=4367
+WARNING: 2022-10-09 18:22:59,559  Token (id=4367) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.071, new price: 0.068
+INFO: 2022-10-09 18:22:59,560  updated events
+INFO: 2022-10-09 18:23:05,235  updated events
+INFO: 2022-10-09 18:23:10,931  updated events
+INFO: 2022-10-09 18:23:16,538  updated events
+INFO: 2022-10-09 18:23:22,254  updated events
+INFO: 2022-10-09 18:23:27,727  updated events
+INFO: 2022-10-09 18:23:33,163  updated events
+INFO: 2022-10-09 18:23:39,056  updated events
+INFO: 2022-10-09 18:23:45,231  updated events
+INFO: 2022-10-09 18:23:50,965  updated events
+INFO: 2022-10-09 18:23:56,481  updated events
+INFO: 2022-10-09 18:24:02,054  updated events
+INFO: 2022-10-09 18:24:07,539  updated events
+INFO: 2022-10-09 18:24:13,216  updated events
+INFO: 2022-10-09 18:24:18,526  new event of type SUCCESSFUL for collection the-chimpsons-official added to history, tokenId=5510
+INFO: 2022-10-09 18:24:18,895  updated events
+INFO: 2022-10-09 18:24:24,760  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=1095
+INFO: 2022-10-09 18:24:24,761  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=1418
+WARNING: 2022-10-09 18:24:24,761  Token (id=1418) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.09, new price: 0.075
+INFO: 2022-10-09 18:24:24,761  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=6569
+INFO: 2022-10-09 18:24:24,762  updated events
+INFO: 2022-10-09 18:24:30,545  updated events
+INFO: 2022-10-09 18:24:36,055  updated events
+INFO: 2022-10-09 18:24:41,824  updated events
+INFO: 2022-10-09 18:24:47,623  updated events
+INFO: 2022-10-09 18:24:53,208  updated events
+INFO: 2022-10-09 18:24:58,731  updated events
+INFO: 2022-10-09 18:25:04,468  updated events
+INFO: 2022-10-09 18:25:10,009  updated events
+INFO: 2022-10-09 18:25:15,706  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=1418
+WARNING: 2022-10-09 18:25:15,707  Token (id=1418) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.075, new price: 0.067
+INFO: 2022-10-09 18:25:15,707  updated events
+INFO: 2022-10-09 18:25:21,418  updated events
+INFO: 2022-10-09 18:25:27,051  updated events
+INFO: 2022-10-09 18:25:32,926  updated events
+INFO: 2022-10-09 18:25:38,364  updated events
+INFO: 2022-10-09 18:25:43,712  new event of type SUCCESSFUL for collection the-chimpsons-official added to history, tokenId=1418
+INFO: 2022-10-09 18:25:44,032  updated events
+INFO: 2022-10-09 18:25:49,542  updated events
+INFO: 2022-10-09 18:25:55,114  new event of type SUCCESSFUL for collection the-chimpsons-official added to history, tokenId=5387
+INFO: 2022-10-09 18:25:55,115  new event of type SUCCESSFUL for collection the-chimpsons-official added to history, tokenId=4367
+INFO: 2022-10-09 18:25:55,115  new event of type SUCCESSFUL for collection the-chimpsons-official added to history, tokenId=2027
+INFO: 2022-10-09 18:25:55,115  new event of type SUCCESSFUL for collection the-chimpsons-official added to history, tokenId=5676
+INFO: 2022-10-09 18:25:55,116  new event of type SUCCESSFUL for collection the-chimpsons-official added to history, tokenId=658
+INFO: 2022-10-09 18:25:55,488  updated events
+INFO: 2022-10-09 18:26:01,127  updated events
+INFO: 2022-10-09 18:26:06,902  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=6847
+INFO: 2022-10-09 18:26:06,903  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=6352
+INFO: 2022-10-09 18:26:06,903  updated events
+INFO: 2022-10-09 18:26:12,715  updated events
+INFO: 2022-10-09 18:26:18,335  updated events
+INFO: 2022-10-09 18:26:24,021  updated events
+INFO: 2022-10-09 18:26:29,446  updated events
+INFO: 2022-10-09 18:26:35,140  updated events
+INFO: 2022-10-09 18:26:40,676  updated events
+INFO: 2022-10-09 18:26:46,578  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=1418
+INFO: 2022-10-09 18:26:46,578  updated events
+INFO: 2022-10-09 18:26:52,231  updated events
+INFO: 2022-10-09 18:26:57,820  updated events
+INFO: 2022-10-09 18:27:03,505  updated events
+INFO: 2022-10-09 18:27:09,357  updated events
+INFO: 2022-10-09 18:27:14,977  updated events
+INFO: 2022-10-09 18:27:20,721  updated events
+INFO: 2022-10-09 18:27:26,139  updated events
+INFO: 2022-10-09 18:27:31,743  updated events
+INFO: 2022-10-09 18:27:37,556  updated events
+INFO: 2022-10-09 18:27:43,088  updated events
+INFO: 2022-10-09 18:27:48,705  updated events
+INFO: 2022-10-09 18:27:54,326  updated events
+INFO: 2022-10-09 18:27:59,766  updated events
+INFO: 2022-10-09 18:28:05,326  updated events
+INFO: 2022-10-09 18:28:10,640  new event of type SUCCESSFUL for collection the-chimpsons-official added to history, tokenId=2878
+INFO: 2022-10-09 18:28:10,640  Token (id=2878) sold with an offer
+INFO: 2022-10-09 18:28:11,103  updated events
+INFO: 2022-10-09 18:28:16,890  updated events
+INFO: 2022-10-09 18:28:22,597  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=109
+WARNING: 2022-10-09 18:28:22,598  Token (id=109) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.0715, new price: 0.0689
+INFO: 2022-10-09 18:28:22,598  updated events
+INFO: 2022-10-09 18:28:28,387  updated events
+INFO: 2022-10-09 18:28:34,165  updated events
+INFO: 2022-10-09 18:28:40,008  updated events
+INFO: 2022-10-09 18:28:45,426  updated events
+INFO: 2022-10-09 18:28:50,989  updated events
+INFO: 2022-10-09 18:28:56,512  new event of type SUCCESSFUL for collection the-chimpsons-official added to history, tokenId=3079
+INFO: 2022-10-09 18:28:56,800  updated events
+INFO: 2022-10-09 18:29:02,510  updated events
+INFO: 2022-10-09 18:29:08,130  updated events
+INFO: 2022-10-09 18:29:13,659  updated events
+INFO: 2022-10-09 18:29:19,131  updated events
+INFO: 2022-10-09 18:29:24,593  updated events
+INFO: 2022-10-09 18:29:30,206  updated events
+INFO: 2022-10-09 18:29:35,837  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=4156
+INFO: 2022-10-09 18:29:35,837  updated events
+INFO: 2022-10-09 18:29:41,367  updated events
+INFO: 2022-10-09 18:29:47,005  updated events
+INFO: 2022-10-09 18:29:52,351  new event of type SUCCESSFUL for collection the-chimpsons-official added to history, tokenId=1544
+INFO: 2022-10-09 18:29:52,641  updated events
+INFO: 2022-10-09 18:29:58,384  updated events
+INFO: 2022-10-09 18:30:04,223  updated events
+INFO: 2022-10-09 18:30:10,025  updated events
+INFO: 2022-10-09 18:30:15,819  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=1418
+WARNING: 2022-10-09 18:30:15,819  Token (id=1418) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.092, new price: 0.09
+INFO: 2022-10-09 18:30:15,819  updated events
+INFO: 2022-10-09 18:30:21,485  updated events
+INFO: 2022-10-09 18:30:27,118  updated events
+INFO: 2022-10-09 18:30:32,787  updated events
+INFO: 2022-10-09 18:30:38,343  updated events
+INFO: 2022-10-09 18:30:43,989  updated events
+INFO: 2022-10-09 18:30:49,793  updated events
+INFO: 2022-10-09 18:30:55,476  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=904
+INFO: 2022-10-09 18:30:55,477  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=3259
+INFO: 2022-10-09 18:30:55,477  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=902
+INFO: 2022-10-09 18:30:55,477  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=2896
+INFO: 2022-10-09 18:30:55,478  updated events
+INFO: 2022-10-09 18:31:01,080  updated events
+INFO: 2022-10-09 18:31:06,973  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=2149
+INFO: 2022-10-09 18:31:06,974  updated events
+INFO: 2022-10-09 18:31:12,480  updated events
+INFO: 2022-10-09 18:31:18,075  updated events
+INFO: 2022-10-09 18:31:23,940  updated events
+INFO: 2022-10-09 18:31:29,636  updated events
+INFO: 2022-10-09 18:31:35,030  updated events
+INFO: 2022-10-09 18:31:40,600  updated events
+INFO: 2022-10-09 18:31:46,045  updated events
+INFO: 2022-10-09 18:31:51,486  updated events
+INFO: 2022-10-09 18:31:57,481  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=4795
+INFO: 2022-10-09 18:31:57,481  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=159
+INFO: 2022-10-09 18:31:57,524  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=4637
+INFO: 2022-10-09 18:31:57,525  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=894
+INFO: 2022-10-09 18:31:57,525  updated events
+INFO: 2022-10-09 18:32:03,345  updated events
+INFO: 2022-10-09 18:32:08,768  updated events
+INFO: 2022-10-09 18:32:14,619  updated events
+INFO: 2022-10-09 18:32:20,221  updated events
+INFO: 2022-10-09 18:32:25,691  updated events
+INFO: 2022-10-09 18:32:31,268  updated events
+INFO: 2022-10-09 18:32:37,276  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=6688
+INFO: 2022-10-09 18:32:37,276  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=2773
+INFO: 2022-10-09 18:32:37,277  updated events
+INFO: 2022-10-09 18:32:42,949  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=2970
+INFO: 2022-10-09 18:32:42,950  updated events
+INFO: 2022-10-09 18:32:48,290  new event of type SUCCESSFUL for collection the-chimpsons-official added to history, tokenId=1596
+INFO: 2022-10-09 18:32:48,730  updated events
+INFO: 2022-10-09 18:32:54,626  updated events
+INFO: 2022-10-09 18:33:00,320  updated events
+INFO: 2022-10-09 18:33:05,972  updated events
+INFO: 2022-10-09 18:33:11,446  updated events
+INFO: 2022-10-09 18:33:16,921  updated events
+INFO: 2022-10-09 18:33:22,438  updated events
+INFO: 2022-10-09 18:33:28,678  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=6436
+INFO: 2022-10-09 18:33:28,678  updated events
+INFO: 2022-10-09 18:33:34,390  updated events
+INFO: 2022-10-09 18:33:39,939  updated events
+INFO: 2022-10-09 18:33:45,686  updated events
+INFO: 2022-10-09 18:33:51,242  updated events
+INFO: 2022-10-09 18:33:56,803  updated events
+INFO: 2022-10-09 18:34:02,621  updated events
+INFO: 2022-10-09 18:34:07,969  new event of type SUCCESSFUL for collection the-chimpsons-official added to history, tokenId=6352
+INFO: 2022-10-09 18:34:08,615  updated events
+INFO: 2022-10-09 18:34:14,356  updated events
+INFO: 2022-10-09 18:34:19,837  updated events
+INFO: 2022-10-09 18:34:25,280  updated events
+INFO: 2022-10-09 18:34:30,725  updated events
+INFO: 2022-10-09 18:34:36,379  updated events
+INFO: 2022-10-09 18:34:42,081  updated events
+INFO: 2022-10-09 18:34:47,936  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=2737
+INFO: 2022-10-09 18:34:47,936  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=5598
+INFO: 2022-10-09 18:34:47,936  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=5295
+WARNING: 2022-10-09 18:34:47,936  Token (id=5295) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.069, new price: 0.067
+INFO: 2022-10-09 18:34:47,936  updated events
+INFO: 2022-10-09 18:34:53,796  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=1940
+INFO: 2022-10-09 18:34:53,796  updated events
+INFO: 2022-10-09 18:34:59,474  updated events
+INFO: 2022-10-09 18:35:05,097  updated events
+INFO: 2022-10-09 18:35:10,602  updated events
+INFO: 2022-10-09 18:35:16,055  updated events
+INFO: 2022-10-09 18:35:21,992  updated events
+INFO: 2022-10-09 18:35:27,330  new event of type SUCCESSFUL for collection the-chimpsons-official added to history, tokenId=6689
+INFO: 2022-10-09 18:35:27,652  updated events
+INFO: 2022-10-09 18:35:33,196  updated events
+INFO: 2022-10-09 18:35:38,925  updated events
+INFO: 2022-10-09 18:35:44,576  updated events
+INFO: 2022-10-09 18:35:50,055  updated events
+INFO: 2022-10-09 18:35:55,981  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=798
+WARNING: 2022-10-09 18:35:55,981  Token (id=798) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.09, new price: 0.087
+INFO: 2022-10-09 18:35:55,982  updated events
+INFO: 2022-10-09 18:36:01,551  updated events
+INFO: 2022-10-09 18:36:07,456  updated events
+INFO: 2022-10-09 18:36:13,019  updated events
+INFO: 2022-10-09 18:36:18,768  updated events
+INFO: 2022-10-09 18:36:24,094  new event of type SUCCESSFUL for collection the-chimpsons-official added to history, tokenId=902
+INFO: 2022-10-09 18:36:24,379  updated events
+INFO: 2022-10-09 18:36:30,098  updated events
+INFO: 2022-10-09 18:36:35,434  new event of type SUCCESSFUL for collection the-chimpsons-official added to history, tokenId=5295
+INFO: 2022-10-09 18:36:36,100  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=4280
+WARNING: 2022-10-09 18:36:36,100  Token (id=4280) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.085, new price: 0.075
+INFO: 2022-10-09 18:36:36,100  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=1418
+WARNING: 2022-10-09 18:36:36,100  Token (id=1418) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.09, new price: 0.089
+INFO: 2022-10-09 18:36:36,101  updated events
+INFO: 2022-10-09 18:36:41,973  updated events
+INFO: 2022-10-09 18:36:47,666  updated events
+INFO: 2022-10-09 18:36:53,306  updated events
+INFO: 2022-10-09 18:36:59,089  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=4996
+INFO: 2022-10-09 18:36:59,090  updated events
+INFO: 2022-10-09 18:37:04,928  updated events
+INFO: 2022-10-09 18:37:10,850  updated events
+INFO: 2022-10-09 18:37:16,705  updated events
+INFO: 2022-10-09 18:37:22,337  updated events
+INFO: 2022-10-09 18:37:27,970  updated events
+INFO: 2022-10-09 18:37:33,541  updated events
+INFO: 2022-10-09 18:37:39,491  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=2212
+WARNING: 2022-10-09 18:37:39,491  Token (id=2212) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.1, new price: 0.09
+INFO: 2022-10-09 18:37:39,492  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=4496
+INFO: 2022-10-09 18:37:39,492  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=3100
+INFO: 2022-10-09 18:37:39,492  updated events
+INFO: 2022-10-09 18:37:45,109  updated events
+INFO: 2022-10-09 18:37:50,760  updated events
+INFO: 2022-10-09 18:37:56,517  updated events
+INFO: 2022-10-09 18:38:02,069  updated events
+INFO: 2022-10-09 18:38:07,550  updated events
+INFO: 2022-10-09 18:38:13,029  updated events
+INFO: 2022-10-09 18:38:18,897  updated events
+INFO: 2022-10-09 18:38:24,596  updated events
+INFO: 2022-10-09 18:38:30,638  updated events
+INFO: 2022-10-09 18:38:36,269  updated events
+INFO: 2022-10-09 18:38:41,709  updated events
+INFO: 2022-10-09 18:38:47,349  updated events
+INFO: 2022-10-09 18:38:53,268  updated events
+INFO: 2022-10-09 18:38:59,331  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=4551
+INFO: 2022-10-09 18:38:59,331  updated events
+INFO: 2022-10-09 18:39:06,282  updated events
+INFO: 2022-10-09 18:39:12,159  updated events
+INFO: 2022-10-09 18:39:17,845  updated events
+INFO: 2022-10-09 18:39:23,687  updated events
+INFO: 2022-10-09 18:39:29,176  updated events
+INFO: 2022-10-09 18:39:34,843  updated events
+INFO: 2022-10-09 18:39:40,681  updated events
+INFO: 2022-10-09 18:39:47,133  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=2979
+INFO: 2022-10-09 18:39:47,133  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=1254
+INFO: 2022-10-09 18:39:47,133  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=1418
+WARNING: 2022-10-09 18:39:47,134  Token (id=1418) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.089, new price: 0.085
+INFO: 2022-10-09 18:39:47,134  updated events
+INFO: 2022-10-09 18:39:52,864  updated events
+INFO: 2022-10-09 18:39:58,435  updated events
+INFO: 2022-10-09 18:40:04,232  updated events
+INFO: 2022-10-09 18:40:09,977  updated events
+INFO: 2022-10-09 18:40:15,844  updated events
+INFO: 2022-10-09 18:40:21,557  updated events
+INFO: 2022-10-09 18:40:27,170  updated events
+INFO: 2022-10-09 18:40:32,910  updated events
+INFO: 2022-10-09 18:40:38,670  updated events
+INFO: 2022-10-09 18:40:44,575  updated events
+INFO: 2022-10-09 18:40:50,853  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=6037
+INFO: 2022-10-09 18:40:50,853  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=6037
+WARNING: 2022-10-09 18:40:50,853  Token (id=6037) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.069, new price: 0.069
+INFO: 2022-10-09 18:40:50,853  updated events
+INFO: 2022-10-09 18:40:56,680  updated events
+INFO: 2022-10-09 18:41:02,394  updated events
+INFO: 2022-10-09 18:41:08,004  updated events
+INFO: 2022-10-09 18:41:13,662  updated events
+INFO: 2022-10-09 18:41:19,375  updated events
+INFO: 2022-10-09 18:41:24,987  updated events
+INFO: 2022-10-09 18:41:31,066  updated events
+INFO: 2022-10-09 18:41:36,908  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=2532
+INFO: 2022-10-09 18:41:36,908  updated events
+INFO: 2022-10-09 18:41:42,739  updated events
+INFO: 2022-10-09 18:41:48,376  updated events
+INFO: 2022-10-09 18:41:54,209  updated events
+INFO: 2022-10-09 18:42:00,460  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=4447
+INFO: 2022-10-09 18:42:00,460  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=1663
+INFO: 2022-10-09 18:42:00,461  updated events
+INFO: 2022-10-09 18:42:06,497  updated events
+INFO: 2022-10-09 18:42:12,743  updated events
+INFO: 2022-10-09 18:42:18,686  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=3240
+INFO: 2022-10-09 18:42:18,686  updated events
+INFO: 2022-10-09 18:42:25,547  updated events
+INFO: 2022-10-09 18:42:31,174  updated events
+INFO: 2022-10-09 18:42:37,020  updated events
+INFO: 2022-10-09 18:42:43,055  updated events
+INFO: 2022-10-09 18:42:48,534  updated events
+INFO: 2022-10-09 18:42:54,215  updated events
+INFO: 2022-10-09 18:42:59,992  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=541
+INFO: 2022-10-09 18:42:59,992  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=1750
+INFO: 2022-10-09 18:42:59,992  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=4596
+WARNING: 2022-10-09 18:42:59,992  Token (id=4596) listed but already in collection (collection=the-chimpsons-official)! Prev price: 0.12, new price: 0.09
+INFO: 2022-10-09 18:42:59,993  updated events
+INFO: 2022-10-09 18:43:05,890  updated events
+INFO: 2022-10-09 18:43:11,828  updated events
+INFO: 2022-10-09 18:43:17,602  updated events
+INFO: 2022-10-09 18:43:23,406  updated events
+INFO: 2022-10-09 18:43:29,263  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=3713
+INFO: 2022-10-09 18:43:29,263  updated events
+INFO: 2022-10-09 18:43:35,277  updated events
+INFO: 2022-10-09 18:43:41,015  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=3711
+INFO: 2022-10-09 18:43:41,016  updated events
+INFO: 2022-10-09 18:43:46,855  updated events
+INFO: 2022-10-09 18:43:52,992  updated events
+INFO: 2022-10-09 18:43:59,130  updated events
+INFO: 2022-10-09 18:44:04,915  updated events
+INFO: 2022-10-09 18:44:10,471  updated events
+INFO: 2022-10-09 18:44:16,451  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=2874
+INFO: 2022-10-09 18:44:16,451  new event of type CREATED for collection the-chimpsons-official added to history, tokenId=2404
+INFO: 2022-10-09 18:44:16,452  updated events
+INFO: 2022-10-09 18:44:22,209  updated events
+INFO: 2022-10-09 18:44:28,120  updated events
+INFO: 2022-10-09 18:44:33,951  updated events
+INFO: 2022-10-09 18:44:39,584  updated events
+INFO: 2022-10-09 18:44:45,216  updated events
+INFO: 2022-10-09 18:44:51,361  updated events

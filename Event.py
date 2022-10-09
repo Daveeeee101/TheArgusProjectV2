@@ -7,7 +7,7 @@ class Event:
             self.assetName = openseaEventData['item']['name']
             self.address = openseaEventData['item']['assetContract']['address']
             self.link = openseaEventData['item']['assetContract']['blockExplorerLink']
-        except TypeError:
+        except Exception:
             self.badEvent = True
             return
         self.tokenId = openseaEventData['item']['tokenId']
