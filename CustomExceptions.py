@@ -1,0 +1,2 @@
+class CollectionOfferCancelError(Exception):
+    pass

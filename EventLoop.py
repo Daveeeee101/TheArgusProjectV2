@@ -1,6 +1,7 @@
+import asyncio
 import time
 from datetime import datetime
-from typing import Dict, List
+from typing import Dict
 import GraphQLData
 import requests
 import ujson
@@ -27,6 +28,8 @@ def getEventsFromTime(collections: Dict[str, Collection], lastUpdatesDict: Dict[
         response = sess.post(url=graphURL, headers=header, data=body)
         updated = False
         for event in (Event(x['node']) for x in ujson.loads(response.text)['data']['assetEvents']['edges']):
+            if event.badEvent:
+                continue
             collections[event.collection].updateEventHistory(event)
             print(event)
             eventHappened = True
@@ -86,7 +89,7 @@ def getAssetsByCollection(sess, collection: str, maxAssetsPercent):
     return newAssets
 
 
-def eventLoop(collections: Dict[str, Collection]):
+async def eventLoop(collections: Dict[str, Collection]):
     with requests.Session() as sess:
         logging.info("Getting initial asset info...")
         for collection, obj in collections.items():
@@ -117,5 +120,5 @@ def eventLoop(collections: Dict[str, Collection]):
                 for assetId in differentAssetsOpenSea:
                     logging.warning("asset from opensea (%s) is not in memory", assetId)
                 lastCheck = time.time()
-            time.sleep(5)
+            await asyncio.sleep(5)
 

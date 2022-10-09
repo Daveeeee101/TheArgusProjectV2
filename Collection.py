@@ -2,10 +2,10 @@ import logging
 from typing import List, Dict
 from Event import Event
 from Asset import Asset
+from datetime import datetime
 
 
 class Collection:
-
     def __init__(self, slug):
         self.slug = slug
         self.eventHistory: List[Event] = []
@@ -26,7 +26,10 @@ class Collection:
                 self.assetDict[newEvent.tokenId] = newAsset
         elif newEvent.eventType == 'SUCCESSFUL':
             if newEvent.tokenId not in self.assetDict:
-                logging.warning('Token (id=%s) sold but not in collection (collection=%s)!',
+                if newEvent.wasOfferAccepted:
+                    logging.info('Token (id=%s) sold with an offer', newEvent.tokenId)
+                else:
+                    logging.warning('Token (id=%s) sold but not in collection (collection=%s)!',
                                 newEvent.tokenId, newEvent.collection)
             else:
                 self.assetDict.pop(newEvent.tokenId)
@@ -35,7 +38,11 @@ class Collection:
                 logging.warning('Token (id=%s) cancelled but not in collection (collection=%s)!',
                                 newEvent.tokenId, newEvent.collection)
             else:
-                self.assetDict.pop(newEvent.tokenId)
+                if self.assetDict[newEvent.tokenId].seller == newEvent.sellerAddress:
+                    self.assetDict.pop(newEvent.tokenId)
+                else:
+                    print("cancellation not from owner of token")
+                    logging.warning("token id %s had cancellation from %s but currently listed by %s", newEvent.tokenId, newEvent.sellerAddress, self.assetDict[newEvent.tokenId].seller)
 
     def addInitialAssets(self, assets: List[Asset]):
         for asset in assets:
@@ -49,3 +56,7 @@ class Collection:
 
     def getAssetsFromFloor(self, multipleAboveFloor) -> List[Asset]:
         return [x for x in sorted(self.assetDict.values(), key=lambda x: x.price) if x.price < self.getFloorPrice() * multipleAboveFloor]
+
+    def getEventsAfterTime(self, inputTime):
+        return [x for x in self.eventHistory if datetime.fromisoformat(x.timestamp) > inputTime]
+
