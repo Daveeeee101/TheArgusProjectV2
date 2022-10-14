@@ -109,6 +109,8 @@ async def eventLoop(collections: Dict[str, Collection]):
             if time.time() > lastCheck + (60 * 30):
                 logging.info("checking if assets match...")
                 newAssets = await getAssetsByCollection(sess, collection, 1.5)
+                floor = newAssets[0]
+                newAssets = [a for a in newAssets if a.price < floor.price * 1.5]
                 currentAssets = obj.getAssetsFromFloor(1.5)
                 differentAssetsOpenSea = set(x.assetId for x in newAssets).difference(set(x.assetId for x in currentAssets))
                 differentAssetsMemory = set(x.assetId for x in currentAssets).difference(set(x.assetId for x in newAssets))
