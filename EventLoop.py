@@ -29,6 +29,7 @@ def getEventsFromTime(collections: Dict[str, Collection], lastUpdatesDict: Dict[
         updated = False
         for event in (Event(x['node']) for x in ujson.loads(response.text)['data']['assetEvents']['edges']):
             if event.badEvent:
+                event.setEventSpecific('CANCEL_FALSE')
                 continue
             collections[event.collection].updateEventHistory(event)
             print(event)
@@ -106,15 +107,14 @@ async def eventLoop(collections: Dict[str, Collection]):
             if time.time() > lastCheck + (60 * 30):
                 logging.info("checking if assets match...")
                 newAssets = getAssetsByCollection(sess, collection, 1.5)
-                currentAssets = obj.getAssetsFromFloor(2)
+                currentAssets = obj.getAssetsFromFloor(1.5)
                 """
                 for index, asset in enumerate(newAssets):
                     if asset != currentAssets[index]:
                         logging.warning("asset from opensea (%s) does not match asset in memory (%s)", asset, currentAssets[index])
                         """
                 differentAssetsOpenSea = set(x.assetId for x in newAssets).difference(set(x.assetId for x in currentAssets))
-                differentAssetsMemory = set(x.assetId for x in currentAssets).difference(
-                    set(x.assetId for x in newAssets))
+                differentAssetsMemory = set(x.assetId for x in currentAssets).difference(set(x.assetId for x in newAssets))
                 for assetId in differentAssetsMemory:
                     logging.warning("asset from memory (%s) is not in opensea", assetId)
                 for assetId in differentAssetsOpenSea:

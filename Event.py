@@ -16,15 +16,22 @@ class Event:
         self.creatorFee = openseaEventData['creatorFee']
         self.ethPrice = openseaEventData['perUnitPrice']['eth']
         self.dollarPrice = openseaEventData['perUnitPrice']['usd']
-        self.sellerAddress = openseaEventData['seller']['address']
+        try:
+            self.sellerAddress = openseaEventData['seller']['address']
+        except Exception:
+            self.badEvent = True
+            return
         if self.eventType == 'SUCCESSFUL':
             self.buyerAddress = openseaEventData['winnerAccount']['address']
             self.paymentType = openseaEventData['payment']['symbol']
-            self.wasOfferAccepted = self.paymentType == 'WETH'
         else:
             self.buyerAddress = None
             self.paymentType = None
             self.wasOfferAccepted = None
+        self.eventSpecific = self.eventType
+
+    def setEventSpecific(self, eventSpecific):
+        self.eventSpecific = eventSpecific
 
     def __str__(self):
         return f"{self.eventType} event for collection {self.collection} happened at {self.timestamp} for {self.ethPrice} (tokenId = {self.tokenId})"

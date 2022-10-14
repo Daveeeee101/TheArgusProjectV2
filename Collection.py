@@ -16,7 +16,9 @@ class Collection:
         logging.info('new event of type %s for collection %s added to history, tokenId=%s',
                      newEvent.eventType, newEvent.collection, newEvent.tokenId)
         if newEvent.eventType == 'CREATED':
+            newEvent.setEventSpecific('LISTING')
             if newEvent.tokenId in self.assetDict:
+                newEvent.setEventSpecific('RELIST')
                 logging.warning('Token (id=%s) listed but already in collection (collection=%s)! Prev price: %s, new price: %s',
                                 newEvent.tokenId, newEvent.collection, self.assetDict[newEvent.tokenId].price, newEvent.ethPrice)
                 self.assetDict[newEvent.tokenId].price = float(newEvent.ethPrice)
@@ -25,8 +27,13 @@ class Collection:
                                  usdPrice=newEvent.dollarPrice, seller=newEvent.sellerAddress)
                 self.assetDict[newEvent.tokenId] = newAsset
         elif newEvent.eventType == 'SUCCESSFUL':
+            if newEvent.paymentType == "WETH":
+                newEvent.setEventSpecific('OFFER_ACCEPTED')
+                logging.info('Token (id=%s) sold with an offer', newEvent.tokenId)
+            else:
+                newEvent.eventType = 'BUY_NOW'
             if newEvent.tokenId not in self.assetDict:
-                if newEvent.wasOfferAccepted:
+                if newEvent.eventSpecific == 'OFFER_ACCEPTED':
                     logging.info('Token (id=%s) sold with an offer', newEvent.tokenId)
                 else:
                     logging.warning('Token (id=%s) sold but not in collection (collection=%s)!',
@@ -34,6 +41,8 @@ class Collection:
             else:
                 self.assetDict.pop(newEvent.tokenId)
         elif newEvent.eventType == 'CANCELLED':
+            if newEvent.eventSpecific != 'CANCELLED_FALSE':
+                newEvent.eventSpecific = 'CANCELLED'
             if newEvent.tokenId not in self.assetDict:
                 logging.warning('Token (id=%s) cancelled but not in collection (collection=%s)!',
                                 newEvent.tokenId, newEvent.collection)
