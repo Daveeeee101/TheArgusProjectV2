@@ -95,11 +95,11 @@ async def getAssetsByCollection(sess, collection: str, maxAssetsPercent):
 async def eventLoop(collections: Dict[str, Collection]):
     async with aiohttp.ClientSession() as sess:
         logging.info("Getting initial asset info...")
+        currTime = datetime.utcnow().replace(microsecond=0).isoformat()
         for collection, obj in collections.items():
             logging.info("Getting asset info for %s", collection)
             newAssets = await getAssetsByCollection(sess, collection, 2)
             obj.addInitialAssets(newAssets)
-        currTime = datetime.utcnow().replace(microsecond=0).isoformat()
         updateTimes = {'AUCTION_SUCCESSFUL': currTime, 'AUCTION_CANCELLED': currTime, 'AUCTION_CREATED': currTime}
         logging.info("starting event loop...")
         lastCheck = time.time()
