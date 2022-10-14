@@ -3,17 +3,17 @@ import time
 from datetime import datetime
 from typing import Dict
 import GraphQLData
-import requests
 import ujson
 from Asset import Asset
 from Event import Event
 from Collection import Collection
 import logging
+import aiohttp
 
 graphURL = "https://api.opensea.io/graphql/"
 
 
-def getEventsFromTime(collections: Dict[str, Collection], lastUpdatesDict: Dict[str, str], sess):
+async def getEventsFromTime(collections: Dict[str, Collection], lastUpdatesDict: Dict[str, str], sess):
     query = 'EventHistoryPollQuery'
     header = GraphQLData.getHeader(query)
     eventHappened = False
@@ -25,9 +25,10 @@ def getEventsFromTime(collections: Dict[str, Collection], lastUpdatesDict: Dict[
                                     eventTimestamp_Gt=dt,
                                     count=100,
                                     showAll=True)
-        response = sess.post(url=graphURL, headers=header, data=body)
+        async with sess.post(url=graphURL, headers=header, data=body) as resp:
+            response = await resp.text()
         updated = False
-        for event in (Event(x['node']) for x in ujson.loads(response.text)['data']['assetEvents']['edges']):
+        for event in (Event(x['node']) for x in ujson.loads(response)['data']['assetEvents']['edges']):
             if event.badEvent:
                 event.setEventSpecific('CANCEL_FALSE')
                 continue
@@ -40,7 +41,7 @@ def getEventsFromTime(collections: Dict[str, Collection], lastUpdatesDict: Dict[
     return lastUpdatesDict, eventHappened
 
 
-def getAssetsByCollection(sess, collection: str, maxAssetsPercent):
+async def getAssetsByCollection(sess, collection: str, maxAssetsPercent):
     cursor = None
     query = 'AssetSearchQuery'
     header = GraphQLData.getHeader(query)
@@ -72,9 +73,10 @@ def getAssetsByCollection(sess, collection: str, maxAssetsPercent):
                                     sortBy="UNIT_PRICE",
                                     stringTraits=None,
                                     toggles='BUY_NOW')
-        resp = sess.post(url=graphURL, headers=header, data=body)
+        async with sess.post(url=graphURL, headers=header, data=body) as resp:
+            response = await resp.text()
         count = 0
-        for assetData in ujson.loads(resp.text)['data']['query']['search']['edges']:
+        for assetData in ujson.loads(response)['data']['query']['search']['edges']:
             data = assetData['node']
             newAssets.append(asset := Asset(openseaAssetData=data))
             logging.info('adding token %s to collection %s',
@@ -91,28 +93,23 @@ def getAssetsByCollection(sess, collection: str, maxAssetsPercent):
 
 
 async def eventLoop(collections: Dict[str, Collection]):
-    with requests.Session() as sess:
+    async with aiohttp.ClientSession() as sess:
         logging.info("Getting initial asset info...")
         for collection, obj in collections.items():
             logging.info("Getting asset info for %s", collection)
-            newAssets = getAssetsByCollection(sess, collection, 2)
+            newAssets = await getAssetsByCollection(sess, collection, 2)
             obj.addInitialAssets(newAssets)
         currTime = datetime.utcnow().replace(microsecond=0).isoformat()
         updateTimes = {'AUCTION_SUCCESSFUL': currTime, 'AUCTION_CANCELLED': currTime, 'AUCTION_CREATED': currTime}
         logging.info("starting event loop...")
         lastCheck = time.time()
         while True:
-            updateTimes, eventHappened = getEventsFromTime(collections, updateTimes, sess)
+            updateTimes, eventHappened = await getEventsFromTime(collections, updateTimes, sess)
             logging.info("updated events")
             if time.time() > lastCheck + (60 * 30):
                 logging.info("checking if assets match...")
-                newAssets = getAssetsByCollection(sess, collection, 1.5)
+                newAssets = await getAssetsByCollection(sess, collection, 1.5)
                 currentAssets = obj.getAssetsFromFloor(1.5)
-                """
-                for index, asset in enumerate(newAssets):
-                    if asset != currentAssets[index]:
-                        logging.warning("asset from opensea (%s) does not match asset in memory (%s)", asset, currentAssets[index])
-                        """
                 differentAssetsOpenSea = set(x.assetId for x in newAssets).difference(set(x.assetId for x in currentAssets))
                 differentAssetsMemory = set(x.assetId for x in currentAssets).difference(set(x.assetId for x in newAssets))
                 for assetId in differentAssetsMemory:
